@@ -2,8 +2,14 @@
 Simulador de rolagem de dados em C
 by> Luca
 
-Para utilizá-lo, é necessário estar em um ambiente LINUX/UNIX ou WSL. Utilize o arquivo makefile e execute-o com o comando "./main".
+### Pré-requisitos
+1. Para utilizá-lo, é necessário estar em um ambiente LINUX/UNIX ou WSL.
+2. C
+3. GCC
+4. run> make all
 
+### Rodando
+run> ./main
 
 O programa aceita tanto "r" quanto "roll" como comandos.
 
