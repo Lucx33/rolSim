@@ -1,5 +1,6 @@
 # rolSim
-Simulador de rolagem de dados em C
+Simulador de rolagem de dados em C.
+
 by> Luca
 
 ### Pré-requisitos
