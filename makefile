@@ -1,3 +1,5 @@
+all: teste main random
+
 teste: teste.c
 	gcc -Wall -o teste teste.c
 
