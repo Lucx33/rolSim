@@ -19,7 +19,9 @@ O segundo parâmetro (opcional) é a quantidade de dados a serem rolados.
 
 # Exemplos
 "r 100"
+
 O programa irá "jogar" um dado de 100 faces. d100.
+
 "r 20 10"
 
 O programa irá "rolar" 10 dados de 20 faces. 10d20.
