@@ -1,8 +1,6 @@
 # rolSim
 Simulador de rolagem de dados em C.
 
-by> Luca
-
 ### Pré-requisitos
 1. Para utilizá-lo, é necessário estar em um ambiente LINUX/UNIX ou WSL.
 2. C
